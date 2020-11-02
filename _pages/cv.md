@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 2019 (6 months): Research Assistant
+* 2019 (6 months): Research Intership
   * **Laboratory LS2N Ecole Centrale de Nantes**
   * Research of muscle segmentation with neuronal networks to
 automatize the volume calculation with similar accuracy as in MRI or CT
