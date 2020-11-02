@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Master 1 CORO ARTIN: Artificial Intelligence"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Ecole Centrale Nantes, Signal processing"
+date: 2020-10-01
+location: "Nantes, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+In charge of practical workshops of the subject ARTIN (Tps).
 
 Heading 1
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+Topics: 
+A) Currents and concepts in machine learning - Probabilistic supervised classification - Data representation and dimensionality reduction - Evaluation measures - Variable selection - Linear classification - Support Vector Machines (SVM) - Decision trees and drills - Neural networks - Introduction to deep learning.
