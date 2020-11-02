@@ -8,6 +8,7 @@ date: 2020-09-01
 location: "Nantes, France"
 ---
 In charge of practical and directed workshops of the subject CCUBE (tps and tds). 
+
 Topics
 ======
 Representation of signals: digitisation - sampling - quantification - analogue restitution.
