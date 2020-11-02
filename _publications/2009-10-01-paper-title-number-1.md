@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+title: "Low-Limb Muscles segmentation in 3D Freehand Ultrasoundusing Non-Learning Methods and Label Transfer."
+collection: 16th International Symposium on Medical Information Processing and Analysis. SIPAIM 2020
+permalink: /publication/Duque2020SIPAIM
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://vgonzalezd.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-10-03
+venue: 'Symposium'
+paperurl: 'http://vgonzalezd.github.io/files/Duque2020SIPAIM.pdf'
+citation: 'Duque, Vanessa Gonzalez et al (2020). &quot;Low-Limb Muscles segmentation in 3D Freehand Ultrasoundusing Non-Learning Methods and Label Transfer&quot; <i>Proceedings of SPIE</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://vgonzalezd.github.io/files/paper1.pdf)
+[Download paper here](http://vgonzalezd.github.io/files/Duque2020SIPAIM.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Duque, Vanessa Gonzalez. (2020). "Low-Limb Muscles segmentation in 3D Freehand Ultrasoundusing Non-Learning Methods and Label Transfer." <i>Proceedings of SPIE</i>. 1(1).
