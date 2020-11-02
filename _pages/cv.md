@@ -82,22 +82,21 @@ Interests
 Languages
 ======
 **Spanish** Mother tongue
-**English** TOEIC B2 855 14-06-2018
-**German** Göethe Zertifikat B1 23-03-2017
+
 **French** DELF B2 21-07-2011
+
+**English** TOEIC B2 855 14-06-2018
+
+**German** Göethe Zertifikat B1 23-03-2017
+
 **Portuguese** CELPE-BRAS Intermediario Superior 26-04-2016
+
 **Russian** Beginner A1
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Teaching
@@ -108,4 +107,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Searching a cotutelle and teamwork with TUM university. 
