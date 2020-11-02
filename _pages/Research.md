@@ -30,5 +30,5 @@ Search original papers, cite correctly!
 
 # Opensource codes 3D Reconstruction
 ======
-* Data augmentation: Automatic Data Augmentation for 3DMedical Image Segmentation : https://github.com/MIC-DKFZ/nnUNet in any modality.
+* |Data augmentation  | Automatic Data Augmentation for 3DMedical Image Segmentation | 0921 | nnUnet code | https://github.com/MIC-DKFZ/nnUNet | any modality |
 * Reconstruction: Sensorless Freehand 3D Ultrasound Reconstruction via Deep Contextual Learning, New loss and CAM maps: https://github.com/DIAL-RPI/FreehandUSRecon (3D US)
